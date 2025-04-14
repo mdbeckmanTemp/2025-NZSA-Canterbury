@@ -5,12 +5,11 @@ author: |
   | Penn State University
 date: | 
   | NZSA Visiting Lecturer Seminar
-  | University of Auckland
+  | University of Otago
   | 
-  | April 9, 2024
+  | April 14, 2025
 
 
-  
 output:
   beamer_presentation: 
     colortheme: seagull

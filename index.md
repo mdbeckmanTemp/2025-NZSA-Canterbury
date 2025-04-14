@@ -4,8 +4,8 @@ subtitle: |
   | New Zealand Statistical Association
 date: |
   | 
-  | University of Auckland
-  | April 9, 2025
+  | University of Canterbury
+  | April 16, 2025
   | 
   | 
 output: 
