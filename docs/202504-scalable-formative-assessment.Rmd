@@ -5,9 +5,9 @@ author: |
   | Penn State University
 date: | 
   | NZSA Visiting Lecturer Seminar
-  | University of Otago
+  | University of Canterbury
   | 
-  | April 14, 2025
+  | April 16, 2025
 
 
 output:
