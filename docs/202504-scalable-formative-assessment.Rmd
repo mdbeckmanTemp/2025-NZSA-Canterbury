@@ -50,6 +50,7 @@ knitr::include_graphics(c("OddForm.png","EvenForm.png"))
 
 # Motivation
 
+- Formative assessment intends to support learning; summative assessment intends to measure learning.
 - **"Write-to-learn" tasks improve learning outcomes** (Graham, et al., 2020)
 - Critical for citizen-statisticians to communicate effectively (Gould, 2010)
 - Frequent practice w/ communicating improves statistical literacy and promotes retention (Basu, et al., 2013)
@@ -86,6 +87,9 @@ knitr::include_graphics(c("OddForm.png","EvenForm.png"))
 
 \noindent\hspace*{-1cm}\includegraphics[width=\paperwidth]{goal-1-tech.png} 
 
+# Goal {.plain}
+
+\noindent\hspace*{-1cm}\includegraphics[width=\paperwidth]{goal-6-assist.png} 
 
 
 # Goal {.plain}
@@ -107,10 +111,6 @@ knitr::include_graphics(c("OddForm.png","EvenForm.png"))
 
 \noindent\hspace*{-1cm}\includegraphics[width=\paperwidth]{goal-5-burden.png} 
 
-
-# Goal {.plain}
-
-\noindent\hspace*{-1cm}\includegraphics[width=\paperwidth]{goal-6-assist.png} 
 
 
 
@@ -273,7 +273,7 @@ Li, Z., Tomar, Y., & Passonneau, R. J. (2021). A Semantic Feature-Wise Transform
 
 ![encoder (Left); fusion function (Middle); classifier (Right).](SFRN.png){width=70%}
 
-Semantic Feature-Wide Transformation Relation Network (SFRN):
+Semantic Feature-Wise Transformation Relation Network (SFRN):
 
 - end-to-end model with three components:
     - ($g_{\theta}MLP$) pretrained BERT encoder (LLM) >> vector representations
@@ -476,7 +476,7 @@ U.S. Department of Education, Office of Educational Technology (2023). *Artifici
     - Study the way instructors might do it and build tools to streamline at scale
     - How consistent are humans?
     - Can our NLP tools achieve results as good or better than humans?
-- Result: Respectable (but possibly *cursed?*)
+- Result: Respectable (...in spite of the *curse*)
 
 
 # Feedback: Topological Data Analysis Tools
@@ -491,7 +491,6 @@ U.S. Department of Education, Office of Educational Technology (2023). *Artifici
     - Promising work for NLP application of TDA, broadly
     - Viability for feedback is still a long road
 
-<!-- # Feedback: Guided Reflection with Comparative Judgment -->
 
 
 
@@ -546,8 +545,10 @@ U.S. Department of Education, Office of Educational Technology (2023). *Artifici
 - **RQ3**: Promising results based on "man-made clusters" but classification and clustering have competing incentives when it comes to dimensionality of NLP vector representations
     - Lower Dim is generally better for cluster stability
     - Higher Dim better for classification reliability
-    - Exploring Topological Analysis as alternative to clustering
     - Feedback as a classifier (Li et al., 2023)
+    - Exploring Topological Analysis as alternative to clustering
+    - Comparative judgments for guided reflection as feedback
+
 
 
 # Current Events
