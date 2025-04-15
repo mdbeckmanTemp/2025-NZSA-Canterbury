@@ -406,11 +406,11 @@ Want to evaluate accuracy of marking algorithm when designed to "defer" to human
 
 
 
-# Let's talk about Feedback...
+<!-- # Let's talk about Feedback... -->
 
-*Develop technology that can assist instructors for large (STEM) classes with providing targeted formative assessment feedback to students, such that instructor burden is similar to small class (~30 students)*
+<!-- *Develop technology that can assist instructors for large (STEM) classes with providing targeted formative assessment feedback to students, such that instructor burden is similar to small class (~30 students)* -->
 
-![Big "O" for Open Problem](open-problem.png){ width=95% }
+<!-- ![Big "O" for Open Problem](open-problem.png){ width=95% } -->
 
 
 # Feedback Avenues 
