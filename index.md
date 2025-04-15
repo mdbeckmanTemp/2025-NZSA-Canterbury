@@ -21,7 +21,7 @@ output:
 
 ## Resources
 
-- [Slides (PDF)](docs/202504-uoa-scalable-formative-assessment.pdf): NLP Tools for Formative Assessment 
+- [Slides (PDF)](docs/202504-scalable-formative-assessment.pdf): NLP Tools for Formative Assessment 
 - [ArXiv Preprint (link)](https://arxiv.org/abs/2410.18062): Beckman, Burke, Fiochetta, Fry, Lloyd, Patterson, Tang, (2024). Developing Consistency Among Undergraduate Graders Scoring Open-Ended Statistics Tasks. Preprint URL: https://arxiv.org/abs/2410.18062
 - [EMNLP Paper (PDF)](docs/EMNLP-Paper.pdf): Li, Z., Lloyd, S., Beckman, M. D., & Passonneau, R. J. (2023). Answer-state Recurrent Relational Network (AsRRN) for Constructed Response Assessment and Feedback Grouping.  *Findings of the Association for Computational Linguistics: EMNLP 2023*. https://doi.org/10.18653/v1/2023.findings-emnlp.254
 - [ICOTS Paper (PDF)](docs/ICOTS-Paper.pdf): Lloyd, S. E., Beckman, M., Pearl, D., Passonneau, R., Li, Z., & Wang, Z. (2022). Foundations for AI-Assisted Formative Assessment Feedback for Short-Answer Tasks in Large-Enrollment Classes. In *Proceedings of the eleventh international conference on teaching statistics*. Rosario, Argentina.
